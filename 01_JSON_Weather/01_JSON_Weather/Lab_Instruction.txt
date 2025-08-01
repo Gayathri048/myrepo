@@ -1,0 +1,23 @@
+
+Machine Learning Lab – Structuring Data Example
+
+Title: Structuring Data from JSON API
+
+Objective:
+To parse and structure weather data from a JSON file into a table.
+
+Task:
+Convert 'weather.json' into a DataFrame with columns like temperature, humidity, date, etc.
+
+Steps:
+1. Read the raw JSON file.
+2. Parse and extract the required fields.
+3. Clean/convert the data into structured tabular format using Python.
+4. Display the final structured data using pandas DataFrame.
+
+Expected Output:
+A clean DataFrame with columns: City, Country, DateTime, Temperature (K), Humidity (%), Weather, Description
+
+Skills Learned:
+- Working with JSON, pandas, lists
+- Structuring real-world data sources
